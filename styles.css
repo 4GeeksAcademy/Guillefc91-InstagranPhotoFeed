@@ -1,0 +1,172 @@
+body{
+    background-color: whitesmoke;
+}
+html{
+    background-color: white;
+}
+
+#Header{
+    background-color:white;
+    padding-left:30%;
+    margin: 0%;
+}
+#Content {
+    margin: 0 auto;
+    width: 600px;
+    background-color:white;
+    
+}
+
+#TittleDate{
+    background-color:white;
+    display:flex;
+    margin: 0 auto;
+    width: 600px;
+}
+
+#Date{
+    color:grey;  
+    margin-left: 65%;
+
+}
+#Tittle{
+    margin-left: 2%;
+
+}
+#Tittle2{
+    margin-left: 2%;
+
+}
+#Tittle3{
+    margin-left: 2%;
+
+}
+#Tittl4{
+    margin-left: 2%;
+
+}
+img{
+    background-size: cover;
+    height: 100%;
+    width: 100;
+    margin: 0 auto;
+    width: 600px;
+}
+/*SEGUNDA FOTO*/
+
+#Content2 {
+    margin: 0 auto;
+    width: 600px;
+    background-color:white;
+    
+}
+
+#TittleDate2{
+    background-color:white;
+    display:flex;
+    margin: 0 auto;
+    width: 600px;
+}
+
+#Date2{
+    color:grey;  
+    margin-left: 68%;
+
+}
+img2 {
+    background-size: cover;
+    height: 100%;
+    width: 100;
+    margin: 0 auto;
+    width: 600px;
+}
+#space{
+    background-color: whitesmoke;
+    padding: 5%;
+}
+
+/*TERCERA FOTO*/
+
+#Content3 {
+    margin: 0 auto;
+    width: 600px;
+    background-color:white;
+    
+}
+
+#TittleDate3{
+    background-color:white;
+    display:flex;
+    margin: 0 auto;
+    width: 600px;
+}
+
+#Date3{
+    color:grey;  
+    margin-left: 74%;
+
+}
+img3 {
+    background-size: cover;
+    height: 100%;
+    width: 100;
+    margin: 0 auto;
+    width: 600px;
+}
+#space{
+    background-color: whitesmoke;
+    padding: 5%;
+}
+/*SEGUNDA FOTO*/
+
+#Content4 {
+    margin: 0 auto;
+    width: 600px;
+    background-color:white;
+    
+}
+
+#TittleDate4{
+    background-color:white;
+    display:flex;
+    margin: 0 auto;
+    width: 600px;
+}
+
+#Date4{
+    color:grey;  
+    margin-left: 75%;
+
+}
+img4 {
+    background-size: cover;
+    height: 100%;
+    width: 100;
+    margin: 0 auto;
+    width: 600px;
+}
+#space{
+    background-color: whitesmoke;
+    padding: 5%;
+}
+
+h3{
+    padding: 2%;
+}
+
+#Footer{
+    margin-left: 2%;
+}
+#Footer2{
+    margin-left: 2%;
+}
+#Footer3{
+    margin-left: 2%;
+}
+#Footer4{
+    margin-left: 2%;
+}
+#space{
+    background-color: whitesmoke;
+    padding: 5%;
+}
